@@ -10,7 +10,7 @@ export const dashboardStats = {
 
 // 2. 사용자 목록 (Users.jsx에서 사용)
 export const users = [
-  { id: 1, name: 'John Doe', email: 'john.doe@example.com', status: 'Active', registrationDate: '2023-01-12' },
+  { id: 1, name: 'Hyeonseo Min', email: 'hyeonseo.min@example.com', status: 'Active', registrationDate: '2023-01-12' },
   { id: 2, name: 'Jane Smith', email: 'jane.smith@example.com', status: 'Inactive', registrationDate: '2022-11-05' },
   {
     id: 3,
